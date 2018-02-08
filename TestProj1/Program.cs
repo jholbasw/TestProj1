@@ -9,6 +9,7 @@ namespace TestProj1
     {
         static void Main(string[] args)
         {
+            string aa;
         }
     }
 }
