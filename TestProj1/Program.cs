@@ -11,6 +11,8 @@ namespace TestProj1
         {
             string aa;
             string bb;
+            string cc;
+            string dd;
         }
     }
 }
